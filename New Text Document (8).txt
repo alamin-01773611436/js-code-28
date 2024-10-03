@@ -1,0 +1,5 @@
+# My Dynamic Website
+# Welcome to my website! Click the links above to change the content dynamically.
+# <p>Welcome to the homepage! Here you'll find the latest news and updates.</p>
+# <p>About Us: We are a small team of web developers passionate about creating dynamic websites.</p>
+# <p>Contact Us: You can reach us at contact@mywebsite.com.</p>
